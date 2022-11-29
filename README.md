@@ -1,2 +1,2 @@
-# docs
-Documentation for everything on this repo
+# documentation
+This site was built using [VitePress](https://vitepress.vuejs.org/).
