@@ -33,7 +33,7 @@ You do not have pyautogui module installed. Please install it using [these instr
 #### (for Windows only)
 This means that Python has not been added to your enviroment variables. Run ```py``` to see what version of Python you have installed, head to the [Python download page](https://www.python.org/downloads/) and download your specific version. Once the download has completed, open it and follow these steps:
 
-![Python Installation modification](/PythonProjects/assets/env-var-install.gif)
+![Python Installation modification](/assets/PythonProjects/env-var-install.gif)
 
 ## Got questions?
 Open up a [new discussion](https://github.com/icepcp/PythonProjects/discussions/new) and I'll try my best to asnwer it.  

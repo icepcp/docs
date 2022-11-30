@@ -1,8 +1,16 @@
 export default {
-    title: 'icepcp docs',
+    title: 'home',
     base: '/',
     description: 'Documentation for all things icepcp',
+    titleTemplate: 'icepcp docs',
+    lastUpdated: true,
+    cleanUrls: 'with-subfolders',
+    head: [
+      ['link', { rel: 'icon', type: 'image/png', href: '/assets/icon.png' }]
+    ],
     themeConfig: {
+      logo: '/assets/icon.png',
+      siteTitle: 'icepcp docs',
       nav: [
         { text: 'PythonProjects', link: '/PythonProjects/what-is-python', activeMatch: '/PythonProjects/' },
         { text: 'RunIsomer', link: '/RunIsomer/index', activeMatch: '/RunIsomer/' }
@@ -20,6 +28,9 @@ export default {
     editLink: {
       pattern: 'https://github.com/icepcp/docs/tree/main/docs/:path',
       text: 'Edit this page on GitHub'
-    }
+    },
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/icepcp/docs' }
+    ]
   }
 }
