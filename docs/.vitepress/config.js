@@ -6,10 +6,10 @@ export default {
     lastUpdated: true,
     cleanUrls: 'with-subfolders',
     head: [
-      ['link', { rel: 'icon', type: 'image/png', href: '/assets/icon.png' }]
+      ['link', { rel: 'icon', type: 'image/png', href: '/assets/logo/ice.png' }]
     ],
     themeConfig: {
-      logo: '/assets/icon.png',
+      logo: '/assets/logo/ice.png',
       siteTitle: 'icepcp docs',
       nav: [
         { text: 'PythonProjects', link: '/PythonProjects/what-is-python', activeMatch: '/PythonProjects/' },
