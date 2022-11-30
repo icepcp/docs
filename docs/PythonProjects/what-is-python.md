@@ -1,0 +1,4 @@
+# What is Python?
+From [coursera.org](https://www.coursera.org/articles/what-is-python-used-for-a-beginners-guide-to-using-python#:~:text=Python%20is%20a%20computer%20programming%20language%20often%20used%20to%20build%20websites%20and%20software%2C%20automate%20tasks%2C%20and%20conduct%20data%20analysis.%20Python%20is%20a%20general%2Dpurpose%20language%2C%20meaning%20it%20can%20be%20used%20to%20create%20a%20variety%20of%20different%20programs%20and%20isn%E2%80%99t%20specialized%20for%20any%20specific%20problems.), Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn’t specialized for any specific problems.
+
+Check out the [PythonProjects repository](https://github.com/icepcp/PythonProjects) as that is what my documentation will cover
