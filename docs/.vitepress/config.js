@@ -1,6 +1,6 @@
 export default {
     title: 'icepcp docs',
-    base: '/docs/',
+    base: '/',
     description: 'Documentation for all things icepcp',
     themeConfig: {
       nav: [
