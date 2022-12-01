@@ -4,6 +4,7 @@ export default {
     description: 'Documentation for all things icepcp',
     titleTemplate: 'icepcp docs',
     lastUpdated: true,
+    cleanUrls: 'with-subfolders',
     head: [
       ['link', { rel: 'icon', type: 'image/png', href: '/logo/ice.png' }]
     ],
