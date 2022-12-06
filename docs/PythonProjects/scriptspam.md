@@ -1,5 +1,6 @@
+[a]: /assets/PythonProjects/scriptspam-1.gif
 # scriptspam
-scriptspam is a script which copys, pastes and enter the line of any text file you give it. This is great if you want to spam your friends with a Bee Movie script, or spam a scammer with a Shrek script.
+scriptspam is a script which copies, pastes and enter the line of any text file you give it. This is great if you want to spam your friends with a Bee Movie script, or spam a scammer with a Shrek script.
 ## Requirements
 * [Python](https://www.python.org/downloads/)
 * [pyautogui](/PythonProjects/scriptspam.html#pyautogui)
@@ -31,12 +32,12 @@ Seconds before disaster: 5
 You do not have pyautogui module installed. Please install it using [these instructions](/PythonProjects/scriptspam.html#pyautogui)
 ### 'python' is not recognized as an internal or external command, operable program or batch file. (or similar)
 #### (for Windows only)
-This means that Python has not been added to your enviroment variables. Run ```py``` to see what version of Python you have installed, head to the [Python download page](https://www.python.org/downloads/) and download your specific version. Once the download has completed, open it and follow these steps:
+This means that Python has not been added to your environment variables. Run ```py``` to see what version of Python you have installed, head to the [Python download page](https://www.python.org/downloads/) and download your specific version. Once the download has completed, open it and follow these steps:
 
-![Python Installation modification](/assets/PythonProjects/env-var-install.gif)
+![Python Installation modification][a]
 
 ## Got questions?
-Open up a [new discussion](https://github.com/icepcp/PythonProjects/discussions/new) and I'll try my best to asnwer it.  
+Open up a [new discussion](https://github.com/icepcp/PythonProjects/discussions/new) and I'll try my best to answer it.  
 Ran into an issue even though you followed all the steps? Open up an [issue](https://github.com/icepcp/PythonProjects/issues/new) and provide all possible details.  
 Know how to fix the issue though? Fork my repo and fix the issue and I'll merge it.
 

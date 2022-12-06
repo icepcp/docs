@@ -5,14 +5,14 @@ export default {
     titleTemplate: 'icepcp docs',
     lastUpdated: true,
     head: [
-      ['link', { rel: 'icon', type: 'image/png', href: '/logo/ice.png' }]
+      ['link', { rel: 'icon', type: 'image/png', href: '/logo/icebook.svg' }]
     ],
     themeConfig: {
-      logo: '/logo/ice.png',
+      logo: '/logo/ice.svg',
       siteTitle: 'icepcp docs',
       nav: [
         { text: 'PythonProjects', link: '/PythonProjects/what-is-python', activeMatch: '/PythonProjects/' },
-        { text: 'RunIsomer', link: '/RunIsomer/what-is-isomer', activeMatch: '/RunIsomer/' }
+        { text: 'RunIsomer', link: '/RunIsomer/introduction/what-is-isomer', activeMatch: '/RunIsomer/' }
       ],
       sidebar: {
         '/PythonProjects/': [
@@ -28,8 +28,17 @@ export default {
           text: 'Introduction',
           collapsible: true,
           items: [
-            { text: 'What is Isomer?', link: '/RunIsomer/what-is-isomer' },
-            { text: 'Getting Started', link: '/RunIsomer/getting-started' }
+            { text: 'What is Isomer?', link: '/RunIsomer/introduction/what-is-isomer' },
+            { text: 'Getting Started', link: '/RunIsomer/introduction/getting-started' }
+          ]
+        },
+        {
+          text: 'Theme',
+          collapsible: true,
+          items: [
+            { text: 'Introduction', link: '/RunIsomer/theme/introduction' },
+            { text: 'Configuration', link: '/RunIsomer/theme/configuration' },
+            { text: 'Navigation Bar', link: '/RunIsomer/theme/navigation-bar' }
           ]
         }
       ]
