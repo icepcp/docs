@@ -6,7 +6,7 @@ hero:
   text: docs
   tagline: documentation for all things icepcp
   image:
-    src: /logo/icedoc-large.png
+    src: /logo/icebook.png
     alt: welcome to icepcp docs :D
 features:
   - icon: 🐍

@@ -30,4 +30,7 @@ I'm not so sure what the URL property does but yea just put your site URL becaus
 ```
 favicon: /images/favicon-isomer.ico
 ```
-The favicon property will change the favicon of the website. The favicon is located at /images/favicon-isomer.ico. You can change it to whatever you want.
+The favicon property will change the favicon of the website. It supports .ico, .png and .svg files. 
+::: info
+In the case you provide a .png file with dimensions longer (example: 32x16) than a square, it will be resized to a square. However, when you provide a .svg, it will remain its original size. 
+:::

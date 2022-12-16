@@ -5,7 +5,7 @@ export default {
     titleTemplate: 'icepcp docs',
     lastUpdated: true,
     head: [
-      ['link', { rel: 'icon', type: 'image/png', href: '/logo/icebook.svg' }]
+      ['link', { rel: 'icon', type: 'image/png', href: '/logo/ice.svg' }]
     ],
     themeConfig: {
       logo: '/logo/ice.svg',

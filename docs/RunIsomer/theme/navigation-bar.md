@@ -1,4 +1,5 @@
-# Navigation Bar
-## Introduction
-The navigation bar is the bar on top that allows you to navigate through the website, hence the name.
-## Pages
+# Navigation Bar (WIP)
+## Location
+The configuration file is located at /_data/navigation.yml
+## Links
+## Groups (a.k.a. collections, dropdowns)
