@@ -10,9 +10,13 @@ maybe add apostrophes..
 ```
 title: 'Title'
 ```
-or quotation marks, it's up to you.
+or quotation marks.
 ```
 title: "Title"
+```
+However, if your property includes spaces or any other magical characters, it is most preferred that you use either the apostrophes or quotation marks.
+```
+title: 'Example Title'
 ```
 ## Title
 ```
