@@ -1,6 +1,9 @@
 [a]: https://app.netlify.com/start/deploy?repository=https://github.com/icepcp/RunIsomer
 # Getting Started
 In this section, we will be going over how to deploy your very own Isomer site. You can use Netlify or Cloudflare Pages to deploy your site.
+:::warning
+Both Netlify and Cloudflare Pages are unable to deploy Isomer properly. Although it might look fine, Jekyll collections do not function properly. I've [uploaded the Cloudflare log file to GitHub Gist](https://gist.github.com/icepcp/9132ab952e7c2050cfaae32d6295f004) in case you know how to fix the issue. Please do not deploy Isomer as of now as it will not function like you expect.
+:::
 # Deploying Isomer
 ## Netlify
 This section will help you clone the RunIsomer repository and have your very own Isomer page.

@@ -1,5 +1,5 @@
 :::warning
-This documentation has been put off as I am unable to properly configure the sidebar. Whether that is an issue on Isomer's side or my side, I will try my best to find another template for you guys to work with. Thank you for your patience.
+This documentation has been put off as I am unable to properly configure Isomer. It turns out it might be an issue on my side, as I forked a working copy of Isomer from GitHub and tried to deploy it to both Netlify and Cloudflare Pages, to no avail. I will try to fix this issue and update this documentation.
 :::
 # What is Isomer?
 From [isomer.gov.sg](https://www.isomer.gov.sg/faq/), Isomer is an informational website builder created by the Open Government Products team at Government Technology Agency of Singapore (GovTech). It provides template for website with hosting and is compliant to applicable clauses in the Instruction Manual 8 (IM8), Design Service Standard (DSS) and Usability Checklist (UC).
