@@ -12,7 +12,8 @@ export default {
       siteTitle: 'icepcp docs',
       nav: [
         { text: 'PythonProjects', link: '/PythonProjects/what-is-python', activeMatch: '/PythonProjects/' },
-        { text: 'RunIsomer', link: '/RunIsomer/introduction/what-is-isomer', activeMatch: '/RunIsomer/' }
+        { text: 'ImGonnaLie', link: '/ImGonnaLie/', activeMatch: '/ImGonnaLie/' },
+        { text: 'RunIsomer', link: '/RunIsomer/introduction/', activeMatch: '/RunIsomer/' }
       ],
       sidebar: {
         '/PythonProjects/': [
@@ -23,12 +24,19 @@ export default {
           ]
         }
       ],
+      '/ImGonnaLie/': [
+        {
+          items: [
+            { text: 'Introduction', link: '/ImGonnaLie/' },
+            { text: 'Getting Started', link: '/ImGonnaLie/getting-started' }
+          ]
+        }
+      ],
       '/RunIsomer/': [
         {
-          text: 'Introduction',
           collapsible: true,
           items: [
-            { text: 'What is Isomer?', link: '/RunIsomer/introduction/what-is-isomer' },
+            { text: 'Introduction', link: '/RunIsomer/introduction/' },
             { text: 'Getting Started', link: '/RunIsomer/introduction/getting-started' }
           ]
         },

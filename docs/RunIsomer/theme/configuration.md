@@ -29,7 +29,7 @@ The title property will change the text in the footer.
 ```
 url: https://example.com
 ```
-I'm not so sure what the URL property does but yea just put your site URL because why not.
+I'm not so sure what the URL property does but yea just put your site URL because why not, I'm thinking maybe it's for a sitemap or something.
 ## Favicon
 ```
 favicon: /images/favicon-isomer.ico
