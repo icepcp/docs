@@ -52,7 +52,7 @@ export default {
       ]
     },
     editLink: {
-      pattern: 'https://github.com/icepcp/docs/tree/main/docs/:path',
+      pattern: 'https://github.com/icepcp/docs/edit/main/docs/:path',
       text: 'Edit this page on GitHub'
     },
     socialLinks: [
