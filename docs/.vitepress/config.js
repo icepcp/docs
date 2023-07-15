@@ -1,4 +1,6 @@
-export default {
+import { defineConfig } from 'vitepress'
+
+export default defineConfig({
     title: 'home',
     base: '/',
     description: 'Documentation for all things icepcp',
@@ -57,6 +59,10 @@ export default {
     },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/icepcp/docs' }
-    ]
+    ],
+    search: {
+      provider: 'local'
+    }
+  },
   }
-}
+,)

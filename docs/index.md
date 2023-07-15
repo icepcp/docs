@@ -5,9 +5,6 @@ hero:
   name: icepcp
   text: docs
   tagline: documentation for all things icepcp
-  image:
-    src: /logo/icebook.png
-    alt: welcome to icepcp docs :D
 features:
   - icon: 🐍
     title: PythonProjects
